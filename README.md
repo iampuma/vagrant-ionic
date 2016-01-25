@@ -1,7 +1,7 @@
 # vagrant-ionic
 Vagrant Ionic environment for Ionic projects
 
-Currently a playground for learning ionic basics. More features can be added in as the learning grows.
+Currently a playground for learning ionic basics. More features can be added as the project grows.
 
 ## How to use
 
