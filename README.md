@@ -19,3 +19,18 @@ Currently a playground for learning ionic basics. More features can be added as 
 7. cd myapp
 8. ionic serve --livereload
 9. Go to box-ip:port
+
+## Whats in the box?
+
+- git
+- curl
+- zip
+- screen
+- nodejs
+- sass
+- compass
+- gulp
+- grunt
+- yo
+- cordova
+- ionic
