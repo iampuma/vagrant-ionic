@@ -17,8 +17,8 @@ Currently a playground for learning ionic basics. More features can be added as 
 5. cd projects
 6. ionic start myapp tabs
 7. cd myapp
-8. ionic serve --livereload
-9. Go to box-ip:port
+8. ionic serve -a --livereload
+9. Go to localhost:port
 
 ## Whats in the box?
 
